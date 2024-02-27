@@ -1,0 +1,201 @@
+*{
+    padding: 0;
+    margin: 0;
+    
+}
+.pg1{
+    display: flex;
+    padding: 40px;
+}
+.texto-pg1{
+    width: 50%;
+    margin: 20px;
+}
+.texto-pg1 h1{
+    font-size: 2rem;
+    padding: 20px;
+    color: rgb(24, 24, 23);
+}
+.texto-pg1 p{
+    font-size: 24px;
+    padding:18px ;
+    color:;
+    align:justify;
+}
+.card-pg1{
+    border: 5px;
+    padding: 20px;
+    width: 50%;
+    
+}
+.cardss{
+    display: flex;
+    justify-content:space-between ;
+    align-items: center;
+   margin: 20px;
+}
+
+.neo02{
+ 
+    align-items: center;
+   
+    padding: 40px;
+}
+.neo02 h2{
+    font-size: 26px;
+ }
+
+.neo02 p{
+   font-size: 17px;
+}
+
+
+.neo2{
+    display: flex;
+    justify-content:space-between ;
+    align-items: center;
+    padding: 30px;
+   margin: 20px;
+}
+.texto-pg2{
+    width: 60%;
+    margin: 20px;
+}
+.noe3{
+    display: flex;
+    justify-content: space-between;
+    padding: 60px;
+}
+.texto-pg3{
+    width: 40%;
+}
+.texto-pg3 h1{
+    margin: 20px;
+    color: aliceblue;
+}
+.texto-pg3 p{
+    margin: 20px;
+    font-size: 1rem;
+    color: aliceblue;
+}
+.bd-lg{
+
+    display: flex;
+    justify-content: left;
+    margin-top: 90px;
+    margin-left: 50px;
+    background-image: url(img/Modelo\ de\ campanha\ de\ reciclagem\ para\ evitar\ poluição\ de\ plástico\ para\ gerenciamento\ de\ resíduos\ _\ Vetor\ Grátis.jpg);
+
+    
+}
+.containe{
+    display: flex;
+   width: 400px;
+   height: 600px;
+   justify-content: center;
+   align-items: center;
+    box-shadow: 5px 10px 10px rgba(0, 0, 0, 0.212) ;
+    opacity:(0.9);
+    background-color: rgb(119, 160, 57);
+    
+}
+.form{
+   
+}
+
+.title h1{
+    margin: 20px;
+    align-items: center;
+    justify-content: center;
+}
+.imput-box{
+    margin: 10px;
+}
+.continue-button{
+    display: flex;
+    align-items: center;
+}
+.continue-button button{
+    border: none;
+    border-radius: 7px;
+    width: 90px;
+    padding: 0.2rem 1rem;
+    cursor: pointer;
+}
+.continue-button button:hover{
+    background-color: rgb(153, 201, 186)
+     
+ }
+ .continue-button button a{
+    text-decoration: none;
+    color: rgb(25, 149, 221);
+    font-weight: 500;
+     
+     
+ }
+
+.login-button{
+    display: flex;
+    align-items: center;
+}
+.login-button button{
+    border: none;
+    border-radius: 7px;
+    width: 90px;
+    padding: 0.2rem 1rem;
+    cursor: pointer;
+
+}
+.login-button button:hover{
+   background-color: rgb(153, 201, 186)
+    
+}
+.login-button button a{
+    text-decoration: none;
+    color: rgb(25, 149, 221);
+    font-weight: 500;
+     
+ }
+ .form-header h1::after{
+    display: block;
+    width: 5rem;
+    height: 0.3rem;
+    background-color: aquamarine;
+    margin: auto;
+    position: absolute;
+    border-radius: 10px;
+ }
+ .input-footer{
+    display: flex;
+    justify-content:space-between ;
+    color: #fff;
+    background-color: black;
+    opacity: 0.5;
+    padding: 50px;
+    list-style-type: none;
+    align-items: center;
+}
+.input-footer h5{
+   font-size: 24px;
+   padding: 20px;
+   color: #ff6e27;
+
+}
+.input-footer li{
+
+    padding: 5px;
+    color: #fff;
+    
+ }
+.input-footer a{
+    color: #fff;
+    
+ }
+ .ultimato-footer{
+
+    display: flex;
+    justify-content: center;
+    background:  rgb(119, 160, 57);
+
+ }
+
